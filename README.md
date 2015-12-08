@@ -7,3 +7,5 @@
 # crop the deteced faces and save it as jpg file
 
 # you can create a unique folder for each person and saved the cropped images into their repsected folders so later you can label each person with a unique id(e.g, a person name), which later you can use it to identify each person by a setting a threshold for the confidence of the recognizer
+
+# WATCH A DEMO AT : https://youtu.be/5rmAf3lJ7fk
